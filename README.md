@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 ### Hello World! I am <b><a target="_blank" href="javascript:;">BetterTommrow</a></b>.
  
 - :hearts: Passionate about open source software. 
-- :1st_place_medal: My projects are trusted by developers.
+- :1st_place_medal: My projects are only one at present.
 - :sun_with_face: What i have achieved.
  
-<a href="https://blog.csdn.net/yryryrkkx?spm=1000.2115.3001.5343">
-    <img src="https://img.shields.io/badge/CSDN Page View-115K-E65A65.svg" alt="" title="BetterTommrow的csdn" />
+<a href="https://blog.csdn.net/yryryrkkx">
+    <img src="https://img.shields.io/badge/CSDN Page View-17K-E65A65.svg" alt="" title="BetterTommrow的csdn" />
 </a>
  
 
